@@ -1,0 +1,5 @@
+{
+  "name": "Life Calendar: Memento Mori",
+  "description": "A philosophical visualization of your life in weeks. Each dot represents a week in an 80-year lifespan, helping you appreciate the time you have left.",
+  "requestFramePermissions": []
+}
